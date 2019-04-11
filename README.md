@@ -1,6 +1,8 @@
 ## Eat-Da-Burger!
 
-DU Full-Stack Web Development Bootcamp homework project: The assignment was to create a burger logger with MySQL, Node, Express, Handlebars and a homemade ORM. The app follows the MVC design pattern, uses Node and MySQL to query and route data, and uses Handlebars to generate the HTML.
+# DU Full-Stack Web Development Bootcamp
+
+The assignment was to create a burger logger with MySQL, Node, Express, Handlebars and a homemade ORM. The app follows the MVC design pattern, uses Node and MySQL to query and route data, and uses Handlebars to generate the HTML.
 
 ![Eat-Da-Burger Screenshot](/images/screenshot.png)
 
